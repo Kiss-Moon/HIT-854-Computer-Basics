@@ -3,6 +3,6 @@
 尽力更新/频率随缘/不保证资料的绝对准确/欢迎纠错/欢迎分享资料
 
 ## 其他实用链接
-[哈工大（深圳）计算机专业课程攻略](https://github.com/hewei2001/HITSZ-CS-GEEK)
-[哈尔滨工业大学2021年硕士研究生招生考试复试及录取工作办法](http://yzb.hit.edu.cn/2021/0317/c8816a251951/page.htm)
+[哈工大（深圳）计算机专业课程攻略](https://github.com/hewei2001/HITSZ-CS-GEEK)<br>
+[哈尔滨工业大学2021年硕士研究生招生考试复试及录取工作办法](http://yzb.hit.edu.cn/2021/0317/c8816a251951/page.htm)<br>
 [哈尔滨工业大学2021年计算学部硕士生入学考试大纲](http://cs.hit.edu.cn/2020/0829/c11474a244796/page.htm)
